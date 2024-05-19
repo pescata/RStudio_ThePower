@@ -45,10 +45,10 @@ numeros_pares <- function(limite) {
       print(i)
     }
   }
+
 }
 
-numeros_pares(10)
-
+numeros_pares(17)
 
 #Ejercicio 5: Bucle Anidado con Condicionales y Operaciones de Listas
 #Enunciado: Define una función llamada matriz_cuadrada que tome un parámetro
